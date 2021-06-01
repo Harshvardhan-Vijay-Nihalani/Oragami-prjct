@@ -1,0 +1,24 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid rgb(214, 43, 43);
+  margin-top:50px;
+  margin-left: 350px;
+}
+.header{
+  background-color:#5eff00;
+  display: flex;
+  justify-content: space-between;
+}
+.footer{
+  display: flex;
+  justify-content:flex-end;
+}
+.facts{
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Oragamipics:hover{
+  transform:scale(90);
+}
